@@ -21,9 +21,9 @@ Olá, sou [Iasmim Oliveira](https://github.com/Iasmim-Oliveira/Iasmim-Oliveira)!
 
 ## Contato
 
-- [Email](mailto:iasmimvieira217@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/iasmim-oliveira-812623186/)
-<!--- [Website/Blog]()-->
+[![Email](https://img.shields.io/badge/Email-Enviar%20Email-blue)](mailto:iasmimvieira217@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20do%20LinkedIn-blue)]([link_para_seu_perfil_do_linkedin](https://www.linkedin.com/in/iasmim-oliveira-812623186/))
+<!--[![Website/Blog](https://img.shields.io/badge/Website%2FBlog-Visite-blue)](link_para_seu_website_ou_blog)-->
 
 ## Estatísticas do GitHub
 
